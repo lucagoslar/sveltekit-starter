@@ -56,7 +56,9 @@ module.exports = {
 		};
 
 		config.resolve.alias = {
-			$scss: path.resolve(path.join('src', 'lib', 'global', 'scss'))
+			$scss: path.resolve(path.join('src', 'lib', 'global', 'scss')),
+			$global: path.resolve(path.join('src', 'lib', 'global')),
+			$helpers: path.resolve(path.join('src', 'lib', 'helpers'))
 		};
 
 		return config;
