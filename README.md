@@ -1,5 +1,5 @@
 > **Warning**
-> This template is superseded by [sveltekit-fullstack](lucagoslar/sveltekit-fullstack).
+> This template is superseded by [sveltekit-fullstack](https://github.com/lucagoslar/sveltekit-fullstack).
 
 # sveltekit-starter
 
