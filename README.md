@@ -1,3 +1,6 @@
+> **Warning**
+> This template is superseded by [sveltekit-fullstack](lucagoslar/sveltekit-fullstack).
+
 # sveltekit-starter
 
 ## Developing
